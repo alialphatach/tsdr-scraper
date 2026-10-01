@@ -37,7 +37,6 @@ PROXY_LIST = [
     "http://xwrwijzc:80ny9padfvhf@45.38.107.97:6014/",
     "http://xwrwijzc:80ny9padfvhf@64.137.96.74:6641/",
     "http://xwrwijzc:80ny9padfvhf@198.23.243.226:6361/",
-    "http://xwrwijzc:80ny9padfvhf@38.154.185.97:6370/",
 
     "http://ofbkpeow:jcjfjfc7o4em@31.59.20.176:6754/",
     "http://ofbkpeow:jcjfjfc7o4em@45.38.107.97:6014/",
