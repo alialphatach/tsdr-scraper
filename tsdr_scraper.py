@@ -34,9 +34,7 @@ from bs4 import BeautifulSoup
 # ek hi IP par load na pade aur speed better rahe.
 PROXY_LIST = [
 
-    "http://ofbkpeow:jcjfjfc7o4em@31.59.20.176:6754/",
     "http://ofbkpeow:jcjfjfc7o4em@45.38.107.97:6014/",
-    "http://ofbkpeow:jcjfjfc7o4em@64.137.96.74:6641/",
     "http://ofbkpeow:jcjfjfc7o4em@198.23.243.226:6361/",
     "http://ofbkpeow:jcjfjfc7o4em@38.154.185.97:6370/",
     "http://ofbkpeow:jcjfjfc7o4em@84.247.60.125:6095/",
