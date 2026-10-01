@@ -40,7 +40,6 @@ PROXY_LIST = [
     "http://ofbkpeow:jcjfjfc7o4em@142.111.67.146:5611/",
     "http://ofbkpeow:jcjfjfc7o4em@191.96.254.138:6185/",
     "http://ofbkpeow:jcjfjfc7o4em@31.58.9.4:6077/",
-    "http://ofbkpeow:jcjfjfc7o4em@198.46.161.42:5092/",
 ]
 
 USE_PROXY = True           # False karo agar proxy use nahi karna
