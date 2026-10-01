@@ -33,7 +33,6 @@ from bs4 import BeautifulSoup
 # Har request ke liye inme se random proxy pick hoga (rotation), taake
 # ek hi IP par load na pade aur speed better rahe.
 PROXY_LIST = [
-    "http://xwrwijzc:80ny9padfvhf@31.59.20.176:6754/",
 
     "http://ofbkpeow:jcjfjfc7o4em@31.59.20.176:6754/",
     "http://ofbkpeow:jcjfjfc7o4em@45.38.107.97:6014/",
